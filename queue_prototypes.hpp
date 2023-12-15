@@ -35,7 +35,6 @@ class Queue {
 
 #include "queue_implementation.hpp"
 
-
 /*
 #endif // QUEUE_PROTOTYPES
 */
