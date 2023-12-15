@@ -63,6 +63,4 @@ int main()
 		q2 = q;
 		std::cout << "Copied queue with copy assignment operator: ";
 		q2.print();
-	
-
 }
